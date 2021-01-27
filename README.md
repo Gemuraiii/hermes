@@ -1,4 +1,5 @@
-# hermes
+# hermes.py is the first file the backend for functions and classes
+#Mercury.py will be used to call  Hermes.py and access all functions, objects and classes structured inside of the python file
 ## So this project is my baby.
 ## The purpose of this project is to create an extension/application that will be release for web use. It will be user accessible, possibly go from there
 ## The function of the application is simple but complex.
