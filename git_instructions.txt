@@ -1,0 +1,27 @@
+Username:mthiamang@gmail.com
+Password:
+
+console.aws.amazon.com
+
+Download git from - https://git-scm.com/downloads
+create github folder in documents file 
+Create your own branch in GitHub from my repository
+	- You click branch or the master branch dropdown
+	- you will see a search bar to create a new branch
+	- click "create branch"
+cd c:// - changes to the C Drive directory
+- dir (pulls up directory)
+cd U (Tab button) (automatically pulls up the first location with the letter U *might be different for Linux/Mac*)
+where git (shows is git downloaded)
+git clone <Https URL from my Github>
+ git pull pulls repository from Github
+ git pull
+git checkout glen_branch 
+git branch - checks which branch you are in
+git merge
+git status 
+git add glen_code.sql (this is the example code that I use with Toks,ki this adds the code file that you are going to push to your local your branch)
+git commit -m "Name you commit" - commits your code to your local branchy
+git push - pushs the new changes to your branch on github
+cd ..
+
