@@ -1,6 +1,6 @@
 # hermes
 ## So this project is my baby.
-## THe purpose of this project is to create an extension/application that will be release for web use. It will be user accessible, possibly go from there
+## The purpose of this project is to create an extension/application that will be release for web use. It will be user accessible, possibly go from there
 ## The function of the application is simple but complex.
 ## It will be a research assistant - the main audience will be Med students, Students pursuing Academia, Data Miners, Data engineers, researchers, PhD students, etc
   - But that will not mean it is not useful to the every day web surfer
