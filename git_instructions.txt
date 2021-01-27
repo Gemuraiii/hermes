@@ -1,8 +1,3 @@
-Username:mthiamang@gmail.com
-Password:
-
-console.aws.amazon.com
-
 Download git from - https://git-scm.com/downloads
 create github folder in documents file 
 Create your own branch in GitHub from my repository
